@@ -90,7 +90,7 @@
                                         </div>
 
                                         <div class="pt-3 sm:pt-5 lg:pt-0">
-                                            <h2 class="text-xl font-semibold text-black dark:text-white">NAME TEST</h2>
+                                            <h2 class="text-xl font-semibold text-black dark:text-white">Digital School devops students</h2>
 
                                             <p class="mt-4 text-sm/relaxed">
                                                 Lorem ipsum, dolor sit amet consectetur adipisicing elit. Perspiciatis, sed inventore commodi delectus, nam ex officiis modi expedita, harum beatae numquam. Esse ducimus ad quis doloremque aliquam corrupti soluta cupiditate.
